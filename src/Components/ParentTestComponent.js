@@ -1,6 +1,5 @@
 import React from 'react'
 import ChildrenTestComponent from './ChildrenTestComponent'
-import { withGlob } from '../ContextApi/GlobContext'
 export default function ParentTestComponent() {
     return (
 
