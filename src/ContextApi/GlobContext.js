@@ -19,8 +19,6 @@ const withGlob = (Child) => (props) => (
         {/* Another option is:  {context => <Child {...props} context={context}/>}*/}
     </GlobContext.Consumer>
 );
-
-
 export { GlobProvider, withGlob };
 // WHAT CAN I BASICLY DO
 
