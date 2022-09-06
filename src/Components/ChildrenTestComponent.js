@@ -4,7 +4,9 @@ import { withGlob } from '../ContextApi/GlobContext'
 function ChildrenTestComponent() {
 
     return (
-    <div><p>as you can see ContextApi is working</p></div>
+        <div>
+            <p>as you can see ContextApi is working</p>
+        </div>
     )
 
 }
